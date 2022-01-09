@@ -143,6 +143,14 @@
 				<key>Path</key>
 				<string>Platforms88.xml.zlib</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Realtek ALC285 for Thinkpad X1 Carbon Gen 7</string>
+				<key>Id</key>
+				<integer>38</integer>
+				<key>Path</key>
+				<string>Platforms11.xml.zlib</string>
+			</dict>
 		</array>
 	</dict>
 	<key>Patches</key>
