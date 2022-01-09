@@ -76,6 +76,14 @@
 				<key>Path</key>
 				<string>layout88.xml.zlib</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Rover Realtek ALC285 for X1C6th</string>
+				<key>Id</key>
+				<integer>69</integer>
+				<key>Path</key>
+				<string>layout69.xml.zlib</string>
+			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
@@ -145,11 +153,11 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Realtek ALC285 for Thinkpad X1 Carbon Gen 7</string>
+				<string>Rover Realtek ALC285 for X1C6th</string>
 				<key>Id</key>
-				<integer>38</integer>
+				<integer>69</integer>
 				<key>Path</key>
-				<string>Platforms38.xml.zlib</string>
+				<string>Platforms69.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>
